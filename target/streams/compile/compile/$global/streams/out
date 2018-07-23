@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/tonny_jho/Documents/playframework/rest/app/controllers/HomeController.java:45:1: ')' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        Invoice invoice = new Invoice("Perico de los Palotes", "City", "123456-7"[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/tonny_jho/Documents/playframework/rest/app/controllers/HomeController.java:46:1: illegal start of expression[0m
+[0m[[0m[31merror[0m] [0m[0m                "002245", LocalDate.now(), new BigDecimal(1293));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/tonny_jho/Documents/playframework/rest/app/controllers/HomeController.java:46:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m                "002245", LocalDate.now(), new BigDecimal(1293));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/tonny_jho/Documents/playframework/rest/app/controllers/HomeController.java:46:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m                "002245", LocalDate.now(), new BigDecimal(1293));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/tonny_jho/Documents/playframework/rest/app/controllers/HomeController.java:46:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m                "002245", LocalDate.now(), new BigDecimal(1293));[0m
